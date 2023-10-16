@@ -11,7 +11,7 @@ O projeto se encontra em _andamento_
 - [ ]  ...
 
 # Sobre o projeto
-Este é um projeto de ***Análise de Dados e Big Data***. Atráves de um grande volume de dados iremos produzir um relatório, que indicara os resulatados desta nossa análise. O projeto visa colocar em prática os nossos conhecimentos adquiridos e testificar a relevância de uma boa análise de dados.
+Este é um projeto de ***Análise Exploratória de Dados***. Atráves de um grande volume de dados iremos produzir um relatório, que indicara os resulatados desta nossa análise. O projeto visa colocar em prática os nossos conhecimentos adquiridos e testificar a relevância de uma boa análise de dados.
 
 # Índice
 - Status do projeto
@@ -25,8 +25,8 @@ Este é um projeto de ***Análise de Dados e Big Data***. Atráves de um grande 
 # Tecnologias usadas
 
 # Colaboradores
-- Isabelle Benevides
 - Halbert Matheus
+- Isabelle Benevides
 - Júlia Fonseca
 - João Victor Santos
 - Mateus Rayrisson
