@@ -23,7 +23,7 @@ Este é um projeto de ***Análise Exploratória de Dados***. Atráves de um gran
 * [Índice](#índice)
 * [Tecnologias usadas](#tecnologias-usadas)
 * [Colaboradores](#colaboradores)
-* Créditos(#créditos)
+* [Créditos](#créditos)
 * [Agradecimentos](#agradecimentos)
   
 # Tecnologias usadas
