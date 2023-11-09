@@ -1,7 +1,7 @@
 # Equipe Laranja
 ![oranges-15046_1280](https://github.com/isa-1234/Time-laranja/assets/148003540/eb178bf3-4ef0-40ad-81ea-5400b188372a)
 
-> Equipe laranja
+> Equipe laranja 🍊
  
 # Status do projeto
 Este projeto se encontra em _andamento_
