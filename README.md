@@ -8,7 +8,7 @@ Este projeto se encontra em _andamento_
 
 # Atividades em desenvolvimento
 - [X]  **Cadastro da Equipe**
-- [ ]  Entrega 1
+- [X]  **Entrega 1**
 - [ ]  Entrega 2
 - [ ]  Apresentação
 
@@ -29,6 +29,7 @@ Este é um projeto de ***Análise Exploratória de Dados***. Atráves de um gran
 # Tecnologias usadas
 - Github
 - Datasets do Kaggle
+- Google Colab
 
 # Colaboradores
 - **Halbert Matheus Camilo dos Santos**
