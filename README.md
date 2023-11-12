@@ -1,5 +1,5 @@
 # Equipe Laranja
-![oranges-15046_1280](https://github.com/isa-1234/Time-laranja/assets/148003540/eb178bf3-4ef0-40ad-81ea-5400b188372a)
+![oranges-15046_1280](https://github.com/isa-1234/Equipe-laranja/assets/148003540/1d250ce9-5757-43fb-8a78-4efe496d740e)
 
 > Equipe laranja 🍊
  
@@ -13,7 +13,7 @@ Este projeto se encontra em _andamento_
 - [ ]  Apresentação
 
 # Sobre o projeto
-Este é um projeto de ***Análise Exploratória de Dados***. Atráves de um grande volume de dados iremos produzir um relatório, que indicara os resulatados desta nossa análise. O projeto visa colocar em prática os nossos conhecimentos adquiridos e testificar a relevância de uma boa análise de dados.
+Este é um projeto de ***Análise Exploratória de Dados***. Atráves da análise de um grande volume de dados referente aos acidentes de trânsito em rodovias federais brasileiras iremos produzir um relatório, para indicara os resulatados desta nossa análise. O projeto visa colocar em prática os conhecimentos adquiridos na unidade curricular de **Análise de Dados e Big Data** e testificar a relevância de uma boa análise de dados.
 
 # Índice
 * [Nossa equipe](#equipe-laranja)
@@ -27,9 +27,9 @@ Este é um projeto de ***Análise Exploratória de Dados***. Atráves de um gran
 * [Agradecimentos](#agradecimentos)
   
 # Tecnologias usadas
-- Github
-- Datasets do Kaggle
-- Google Colab
+- [Github](https://github.com/)
+- [Datasets do Kaggle](https://www.kaggle.com/)
+- [Google Colab](https://colab.google/)
 
 # Colaboradores
 - **Halbert Matheus Camilo dos Santos**
