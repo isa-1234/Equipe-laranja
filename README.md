@@ -32,11 +32,11 @@ Este é um projeto de ***Análise Exploratória de Dados***. Atráves da anális
 - [Google Colab](https://colab.google/)
 
 # Colaboradores
-- **Halbert Matheus Camilo dos Santos**
-- **Isabelle Benevides Ferreira de Almeida**
-- **Júlia Fonseca Lima**
-- **João Victor Santos Alves de Oliveira**
-- **Mateus Rayrisson Gonçalves Rosa**
+- **HalbertEinsten**
+- **isa-1234**
+- **juuhbs**
+- **Vitcow**
+- **ElMateus333**
 
 # Créditos
 O dataset analisado neste projeto, ["Acidentes Rodovias Federais Brasil Jan/07 a Dez/20"](https://www.kaggle.com/datasets/equeiroz/acidentes-rodovias-federais-brasil-jan07-a-jul19/data), foi retirado do _Datasets do Kaggle_. Seu colaborador e autor principal está nomeado no aplicativo como **Eduardo Queiroz**, tendo como seus principais contribuidores o **João Vitor da Silva Souza** e o **Kerneler Kaggle**. Em termos de licença não foram encontradas especificações. Mencionamos os autores do dataset em propósito de dar-lhes os créditos pelo seu trabalho, utilizado na análise exploratória de dados desenvolvida por este projeto.
