@@ -9,7 +9,7 @@ Este projeto se encontra em _andamento_
 # Atividades em desenvolvimento
 - [X]  **Cadastro da Equipe**
 - [X]  **Entrega 1**
-- [ ]  Entrega 2
+- [X]  **Entrega 2**
 - [ ]  Apresentação
 
 # Sobre o projeto
@@ -30,6 +30,7 @@ Este é um projeto de ***Análise Exploratória de Dados***. Atráves da anális
 - [Github](https://github.com/)
 - [Datasets do Kaggle](https://www.kaggle.com/)
 - [Google Colab](https://colab.google/)
+- Microsoft Excel
 
 # Colaboradores
 - **HalbertEinsten**
